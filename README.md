@@ -6,7 +6,7 @@ Default there is few operations, but you can add your own.
 *Example:*
 ```js
 let calc = new Calculator();
-// definedOperator(symbol, func, notation, precedence, rightToLeft)
+// defineOperator(symbol, func, notation, precedence, rightToLeft)
 calc.defineOperator("%", (a, b) => a%b, "infix", 4);
 ```
 
