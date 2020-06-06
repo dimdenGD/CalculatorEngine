@@ -1,7 +1,7 @@
 # Calculator Engine
 
-This is very simple Calculator can evaluate string math expressions (without `eval`).
-Default there is few operations, but you can add your own.
+This is very simple Calculator can evaluate string math expressions (without `eval`).  
+By default there is few operations, but you can add your own ones.
 
 *Example:*
 ```js
